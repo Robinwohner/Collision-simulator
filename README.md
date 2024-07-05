@@ -10,4 +10,4 @@ To play the difference collision animations just press 1-5, where the objects wi
 4) 1 : 100.000 kg
 5) 1 : 1.000.000 kg
 
-On the top left side, I've included a collision counter to keep track of the pi phenomenon as mentioned earlier. 
+On the top left corner, I've included a collision counter to keep track of the pi phenomenon as mentioned earlier. 
